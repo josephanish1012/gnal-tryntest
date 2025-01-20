@@ -3,7 +3,7 @@
 The AWS HealthScribe Demo app shows the art of the possible
 with [AWS HealthScribe](https://aws.amazon.com/healthscribe/), a HIPAA-elgible service empowering healthcare software
 vendors to build clinical applications that automatically generate clinical notes by analyzing patient-clinician
-conversations.
+conversation.
 
 After deploying the demo, you can record or submit audio files to AWS HealthScribe, view the status of the job, and
 visualize the transcript and summarized clinical notes, including sections like complaint, history of present illness,
